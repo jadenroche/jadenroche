@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Jaden Roche
 
-<!--
-**jadenroche/jadenroche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate with a Data Science minor focused on analytics, data quality, and operational reporting workflows.
 
-Here are some ideas to get you started:
+My background includes healthcare operations support, military logistics leadership, and hands-on projects using Python, SQL, Power BI, SQLite, and Flask.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Python and SQL data workflows
+- Data quality and reporting projects
+- Dashboard development using Power BI
+- Building structured analytics pipelines
+
+## Technical Skills
+Python | SQL | Power BI | Pandas | SQLite | Excel | Flask | Git/GitHub
+
+## Featured Projects
+- Sim Racing Analytics Pipeline
+- Personal Tracking Dashboard
