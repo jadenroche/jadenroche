@@ -13,6 +13,5 @@ My background includes healthcare operations support, military logistics leaders
 ## Technical Skills
 Python | SQL | Power BI | Pandas | SQLite | Excel | Flask | Git/GitHub
 
-## Featured Projects
+## Featured Project
 - Sim Racing Analytics Pipeline
-- Personal Tracking Dashboard
