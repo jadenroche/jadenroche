@@ -14,4 +14,4 @@ My background includes healthcare operations support, military logistics leaders
 Python | SQL | Power BI | Pandas | SQLite | Excel | Flask | Git/GitHub
 
 ## Featured Project
-- Sim Racing Analytics Pipeline
+- [Sim Racing Analytics Pipeline](https://github.com/jadenroche/sim-racing-analytics-pipeline)
